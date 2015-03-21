@@ -22,31 +22,26 @@
 	            <li class="dropdown">
 	              <a href="${ctx}/borrowingProcess.htm" class="dropdown-toggle" data-toggle="dropdown">产品展示<b class="caret"></b></a>
 	              <ul class="dropdown-menu">
-	                <li><a href="${ctx}/kuaimeite.htm">快美特系列</a></li>
-	                <li><a href="${ctx}/yingcaixing.htm">英才星系列</a></li>
-	                <li><a href="${ctx}/langlong.htm">朗龙香水系列</a></li>
-					<li><a href="${ctx}/meigu.htm">美固冰箱</a></li>
-					<li><a href="${ctx}/zuodian.htm">座垫系列</a></li>
-					<li><a href="${ctx}/zuoyi.htm">儿童座椅</a></li>
-					<li><a href="${ctx}/sijiantao.htm">抱枕四件套</a></li>
-					<li><a href="${ctx}/weiduoliya.htm">维多利亚系列</a></li>
-					<li><a href="${ctx}/kashishe.htm">卡饰社系列</a></li>
+	                <li><a href="${ctx}/kuaimeite.htm">手机系列</a></li>
+	                <li><a href="${ctx}/yingcaixing.htm">电脑系列</a></li>
+	                <li><a href="${ctx}/langlong.htm">平板系列</a></li>
+					<li><a href="${ctx}/meigu.htm">风扇系列</a></li>
+					<li><a href="${ctx}/zuodian.htm">座椅系列</a></li>
 	              </ul>
 	            </li>
 	            <li><a href="${ctx}/member/index.htm">个人中心</a></li>
 	            <li class="dropdown">
-	              <a href="${ctx}/aboutUs.htm" class="dropdown-toggle" data-toggle="dropdown">关于宝颐<b class="caret"></b></a>
+	              <a href="${ctx}/aboutUs.htm" class="dropdown-toggle" data-toggle="dropdown">关于理工<b class="caret"></b></a>
 	              <ul class="dropdown-menu">
-	                <li><a href="${ctx}/aboutUs.htm">公司简介</a></li>
-	                <li><a href="${ctx}/announcement/announcement.htm?&p=1">网站公告</a></li>
-					<li><a href="${ctx}/news/news.htm?&p=1">网站新闻</a></li>
+	                <li><a href="${ctx}/aboutUs.htm">理工简介</a></li>
+	                <li><a href="${ctx}/announcement/announcement.htm?&p=1">理工公告</a></li>
+					<li><a href="${ctx}/news/news.htm?&p=1">理工新闻</a></li>
 	                <li><a href="${ctx}/hiring/hiring.htm?&p=1">招纳贤士</a></li>
 	                <li><a href="${ctx}/contactUs.htm">联系我们</a></li>
-	                <li><a href="${ctx}/others/otherAddress.htm">公司地图</a></li>
+	                <li><a href="${ctx}/others/otherAddress.htm">理工地图</a></li>
 	                <li><a href="${ctx}/others/others.htm?&str=IPNumber">其他业务</a></li>
 	             </ul>
 	            </li>
-	            <li><a href="${ctx}/contactUs.htm">特许加盟</a></li>
 	            <li><a href="${ctx}/contactUs.htm">意见反馈</a></li>
 	          </ul>
 	          	<p class="navbar-text navbar-right">
