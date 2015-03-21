@@ -14,7 +14,7 @@
 	            <span class="icon-bar"></span>
 	            <span class="icon-bar"></span>
 	          </button>
-	          <a class="navbar-brand" href="${ctx}/index.htm">广州市宝颐贸易有限公司</a>
+	          <a class="navbar-brand" href="${ctx}/index.htm">梁狄文毕业设计 二手交易网站</a>
 	        </div>
 	        <div class="navbar-collapse collapse">
 	          <ul class="nav navbar-nav">

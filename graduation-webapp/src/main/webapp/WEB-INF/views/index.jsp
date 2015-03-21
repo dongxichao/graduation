@@ -10,7 +10,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>冰川基本系统</title>
+		<title>东莞理工学院梁狄文毕业设计</title>
 		<!-- 引入公用的js和样式库 -->
 		<jsp:include page="inc.jsp"/>
 		<script type="text/javascript" src="<%=basePath %>resources/highcharts/highstock.js"></script>

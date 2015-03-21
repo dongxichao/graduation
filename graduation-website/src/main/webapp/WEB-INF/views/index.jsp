@@ -7,7 +7,7 @@
 <html lang="zh-cn">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>广州市宝颐贸易有限公司</title>
+    <title>东莞理工学院梁狄文毕业设计</title>
    	<!-- 引入公用的js和样式库 -->
 	<jsp:include page="inc.jsp"/>
 	</head>
@@ -31,11 +31,6 @@
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
-		<li data-target="#myCarousel" data-slide-to="3"></li>
-        <li data-target="#myCarousel" data-slide-to="4"></li>
-		<li data-target="#myCarousel" data-slide-to="5"></li>
-        <li data-target="#myCarousel" data-slide-to="6"></li>
-		<li data-target="#myCarousel" data-slide-to="7"></li>
       </ol>
       <div class="carousel-inner">
         <div class="item active">
@@ -46,21 +41,6 @@
         </div>
         <div class="item">
           <img src="${pageContext.request.contextPath}/resources/images/index/index003.jpg" alt="Third slide">
-        </div>
-		<div class="item">
-          <img src="${pageContext.request.contextPath}/resources/images/index/index004.jpg" alt="First slide">
-        </div>
-        <div class="item">
-          <img src="${pageContext.request.contextPath}/resources/images/index/index005.jpg" alt="Second slide">
-        </div>
-        <div class="item">
-          <img src="${pageContext.request.contextPath}/resources/images/index/index006.jpg" alt="Third slide">
-        </div>
-		<div class="item">
-          <img src="${pageContext.request.contextPath}/resources/images/index/index007.jpg" alt="First slide">
-        </div>
-        <div class="item">
-          <img src="${pageContext.request.contextPath}/resources/images/index/index008.jpg" alt="Second slide">
         </div>
       </div>
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
@@ -75,15 +55,15 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading" style="margin-top: 50px;">广州市宝颐贸易有限公司</h2>
+          <h2 class="featurette-heading" style="margin-top: 50px;">东莞理工学院</h2>
 		  <p>&nbsp;</p>
-          <p style="text-indent:2em;">广州市宝颐贸易有限公司是专门从事汽车用品研发、生产、销售为一体的企业机构。</p>
-		  <p style="text-indent:2em;">我公司直接与快美特、朗龙、卡饰社、舒适美、维多利亚等众多知名品牌及企业合作，质量可靠，并且不断推出新产品，迎合不同用户群体的需求，深受国内外广大用户喜爱和认可。</p>
-		  <p style="text-indent:2em;">本着“诚信为本，互惠为赢”的经营理念，凭借快捷、贴心、精确、安全的服务方针，我们将与各地新老朋友携手共进，继往开来。</p>
+          <p style="text-indent:2em;">东莞理工学院，简称莞工（DGUT）。全国排名406名，是广东省重点建设大学之一，是第一批“卓越工程师教育培养计划”高校，兼有一本和二本专业，也是东莞史上创办的第一所大学。省市共建，以市为主。由诺贝尔物理学奖获得者杨振宁博士任名誉校长。</p>
+		  <p style="text-indent:2em;">学校筹办于1990年，1991年国家教委批准先行招生，1992年经国家教育部批准正式开学，招收专科生。直到2002年获的教育部提批准，招收本科生，2005年开始与华南理工大学、暨南大学联合培养研究生，并进行招生。2006年获得颁发学士学位资格。2007年，东莞理工学院具备招收港澳生资格。</p>
+		  <p style="text-indent:2em;">截止到2014年，学校总面积为3000亩，其中松山湖校区1500亩，莞城校区500亩，松山湖校区旁预留地1000亩。普通全日制学生14129人，成人教育学生7770人，教职工1065人。</p>
 		  
         </div>
         <div class="col-md-5">
-          <img src="${pageContext.request.contextPath}/resources/images/index/7.jpg" alt="Generic placeholder image">
+          <img src="${pageContext.request.contextPath}/resources/images/index/7.jpg" alt="Generic placeholder image" style="margin-left: 100px;">
         </div>
       </div>
   
@@ -94,24 +74,44 @@
           <table class="table table-hover">
 	        <tbody>
 			  <tr>
-				<td>广州市宝颐贸易有限公司2014年1-5月份，快美特风口香水系列买10赠2或赠1（彩旋、彩莹、魔棒、自然）。</td>
-				<td>2014-01-27</td>
+				<td>广东省人民政府批准筹办东莞理工学院。</td>
+				<td>1990年01月</td>
 			  </tr>
 			  <tr>
-				<td>广州市宝颐贸易有限公司2013年11-12月份，快美特系列会员九折优惠。</td>
-				<td>2013-11-13</td>
+				<td>东莞理工学院教学大楼竣工剪彩。</td>
+				<td>1991年03月</td>
 			  </tr>
 			  <tr>
-				<td>广州市宝颐贸易有限公司2013年8月份，维多利亚系列会员八折优惠。 </td>
-				<td>2013-08-02</td>
+				<td>国家教委批准先行招生。 </td>
+				<td>1991年07月</td>
 			  </tr>
 			  <tr>
-				<td>广州市宝颐贸易有限公司2013年7-12月份，卡饰社系列会员九点五折优惠。 </td>
-				<td>2013-07-24</td>
+				<td>国家教委正式批准建院。 </td>
+				<td>1992年04月</td>
 			  </tr>
 			  <tr>
-				<td>广州市宝颐贸易有限公司2013年2-8月份，英才星系列买就送小礼品。 </td>
-				<td>2013-02-02</td>
+				<td>国家教育部批准东莞理工学院升格为本科院校，并于当年招收本科生。</td>
+				<td>2002年04月</td>
+			  </tr>
+			  <tr>
+				<td>东莞理工学院松山湖校区动工建设。</td>
+				<td>2002年12月</td>
+			  </tr>
+			  <tr>
+				<td>东莞理工学院松山湖校区正式启用。</td>
+				<td>2003年10月</td>
+			  </tr>
+			  <tr>
+				<td>分别与华南理工大学、暨南大学开展联合培养研究生工作，积累硕士研究生培养经验。</td>
+				<td>2005年09月</td>
+			  </tr>
+			  <tr>
+				<td>广东省学位委员会批准东莞理工学院为学士学位授予单位。</td>
+				<td>2006年05月</td>
+			  </tr>
+			  <tr>
+				<td>东莞理工学院首届本科生学成毕业，这是第一批完全利用东莞本土教育资源培养出来的学士。</td>
+				<td>2006年06月</td>
 			  </tr>
 			</tbody>
 	      	<tfoot>
@@ -131,7 +131,7 @@
 		<footer>
 			<p class="pull-right"><a href="#">置顶</a></p>
 			<p><img src="images/index/logo.png" alt="logo">
-			版权所有&copy; 2014 广州市宝颐贸易有限公司, Inc.  粤ICP备14008695号-1 &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+			版权所有&copy; 2015 东莞理工学院梁狄文毕业设计, Inc.  粤ICP备14008695号-1 &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
 		</footer>
     </div>
   </body>

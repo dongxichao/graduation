@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>宝颐网站后台管理系统</title>
+		<title>东莞理工学院梁狄文毕业设计</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		<!-- 引入网站标识icon -->
@@ -43,7 +43,7 @@
 					<div class="col-lg-12 visible-lg" style="height:120px;">
 					</div>
 					<div class="page-header">
-						<h1>BaoYi Management System <br><small>宝颐网站后台管理系统</small></h1>
+						<h1>DiWen Graduation Project <br><small>东莞理工学院 梁狄文 毕业设计</small></h1>
 					</div>
 					<div class="row">
 						<div class="col-md-10 col-xs-12">

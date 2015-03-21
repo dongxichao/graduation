@@ -13,7 +13,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <html lang="zh-cn">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>冰川网贷平台</title>
+    <title>东莞理工学院梁狄文毕业设计</title>
    	<!-- 引入公用的js和样式库 -->
 	<jsp:include page="inc.jsp"/>
 	<!-- Custom styles for this template -->
@@ -76,7 +76,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				 </div> 
 				</div>
 			  <div class="form-group">
-			    <label for="inputPassword" class="col-sm-5 control-label" style="margin-left: 20px">还没加入冰川网贷？<a href="${ctx}/intoregister.htm" class="navbar-link">立即注册</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="${ctx}/retrievePasswordEmail.htm">忘记密码?</a>
+			    <label for="inputPassword" class="col-sm-5 control-label" style="margin-left: 20px">还没加入理工二手交易平台？<a href="${ctx}/intoregister.htm" class="navbar-link">立即注册</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="${ctx}/retrievePasswordEmail.htm">忘记密码?</a>
 			   </label>
 			    <div class="col-sm-2"></div>
 			  </div>
